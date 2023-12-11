@@ -1,0 +1,2 @@
+# ANALISE-DE-SEGURANCA-DE-REDES-SEM-FIO-EM-AMBIENTES-CORPORATIVOS
+Esse projeto investiga as potenciais ameaças direcionadas a esses ambientes, abrangendo desde investidas de intrusos até vulnerabilidades inerentes aos protocolos de comunicação. Realiza uma análise mais aprofundada nas estratégias de segurança, avaliando a efetividade dos protocolos criptográficos, mecanismos de autenticação e sistemas de detecção de intrusos. Adicionalmente, explora novas camadas de proteção que possam ser implementadas para fortalecer a segurança desses ambientes.
